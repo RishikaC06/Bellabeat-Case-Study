@@ -19,5 +19,5 @@ The Business task is to focus on one of Bellabeat’s products and analyze smart
 
 You can download the ipynb from here
 or
-Click the below link to view the case study.
+Click the link to view the case study.
 [Bellabeat case study using Python](https://www.kaggle.com/code/rishikachatterjee06/bellabeat-google-data-analytics-casestudy-python)
