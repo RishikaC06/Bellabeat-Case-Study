@@ -17,5 +17,7 @@ The Bellabeat app provides users with health data related to their activity, sle
 ### Business task
 The Business task is to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights we discover will then help guide marketing strategy for the company. We also have to present our analysis along with your high-level recommendations to the Bellabeat executive team.
 
+You can download the ipynb from here
+or
 Click the below link to view the case study.
 [Bellabeat case study using Python](https://www.kaggle.com/code/rishikachatterjee06/bellabeat-google-data-analytics-casestudy-python)
